@@ -1,4 +1,4 @@
-# rustup: the Rust toolchain installer
+# dustup: the Dust toolchain installer
 
 | Master CI    | Build Status                                             |
 |--------------|----------------------------------------------------------|
